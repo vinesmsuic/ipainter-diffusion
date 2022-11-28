@@ -5,7 +5,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 > **Intelligent Painter: Picture Composition With Resampling Diffusion Model**<br>
-> [Wing-Fung Ku](https://kuwingfung.github.io/), [Wan-Chi Siu](http://www.eie.polyu.edu.hk/~wcsiu/), [Xi Cheng](https://blog.moephoto.tech/%e7%a7%91%e7%a0%94%e4%b8%8e%e7%ae%80%e4%bb%8b/), H. Anthony Chan<br>
+> [Wing-Fung Ku](https://kuwingfung.github.io/), [Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ), [Xi Cheng](https://scholar.google.com/citations?user=kpcwnZkAAAAJ), H. Anthony Chan<br>
 > https://arxiv.org/abs/2210.17106
 > 
 > **Abstract:** *Have you ever thought that you can be an intelligent painter? This means that you can paint a picture with a few expected objects in mind, or with a desirable scene. This is different from normal inpainting approaches for which the location of specific objects cannot be determined. In this paper, we present an intelligent painter that generate a person's imaginary scene in one go, given explicit hints. We propose a resampling strategy for Denoising Diffusion Probabilistic Model (DDPM) to intelligently compose harmonized scenery images by injecting explicit landmark inputs at specific locations. By exploiting the diffusion property, we resample efficiently to produce realistic images. Experimental results show that our resampling method favors the semantic meaning of the generated output efficiently and generate less blurry output. Quantitative analysis of image quality assessment shows that our method produces higher perceptual quality images compared with the state-of-the-art methods.*
