@@ -4,6 +4,8 @@
 ![](https://user-images.githubusercontent.com/34955859/200509260-4c56d4f8-0cd6-4e7d-b32d-efe398629cbf.png)
 
 * 22 June 2023 Update: Paper accepted to ICIP 2023.
+* Be sure to check the follow up work: [Intelligent Painter: New Masking Strategy and Self-Referencing with Resampling
+](https://2023.ic-dsp.org/wp-content/uploads/2023/05/DSP2023-54.pdf)
 
 This repository contains the official PyTorch implementation of the following paper:
 > **Intelligent Painter: Picture Composition With Resampling Diffusion Model**<br>
