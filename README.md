@@ -1,7 +1,8 @@
 # Intelligent Painter with Resampling Diffusion Models
 [![arXiv](https://img.shields.io/badge/arXiv-2210.17106-b31b1b.svg)](https://arxiv.org/abs/2210.17106)
-
 ![](https://user-images.githubusercontent.com/34955859/200509260-4c56d4f8-0cd6-4e7d-b32d-efe398629cbf.png)
+
+* [22 June 2023 Update: Paper accepted to ICIP 2023.]
 
 This repository contains the official PyTorch implementation of the following paper:
 > **Intelligent Painter: Picture Composition With Resampling Diffusion Model**<br>
